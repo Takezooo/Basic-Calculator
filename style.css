@@ -1,0 +1,17 @@
+#main{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border: 1px solid rgb(27,27,27);
+    border-radius: 7px;
+    background-color: rgba(27,27,27,.2);
+    text-align: center;
+    width: 20em;
+    padding: 1em;
+    margin: 1em;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
